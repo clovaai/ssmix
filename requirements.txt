@@ -1,0 +1,6 @@
+numpy==1.19.3
+torch==1.8.1
+transformers==3.1.0
+datasets==1.6.2
+scikit-learn==0.24.2
+matplotlib==3.3.4
